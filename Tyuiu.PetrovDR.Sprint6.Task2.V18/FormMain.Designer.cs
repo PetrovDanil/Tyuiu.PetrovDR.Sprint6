@@ -198,7 +198,7 @@
             MaximizeBox = false;
             Name = "FormMain";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Спринт 6 | Таск 2 | Вариант 26 | Петров Д.Р.";
+            Text = "Спринт 6 | Таск 3 | Вариант 26 | Петров Д.Р.";
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
             groupBox2.ResumeLayout(false);
